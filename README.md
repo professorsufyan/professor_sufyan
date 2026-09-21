@@ -291,8 +291,8 @@ I'm a software developer who builds **WhatsApp bots** and **automation tools**. 
 
 ## 📩 𝗛𝗶𝗿𝗲 𝗠𝗲
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order%20Now-14b8a6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/92XXXXXXXXXX)
-[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/USERNAME)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Order%20Now-14b8a6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/No3209152128)
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/professorsufyan)
 
 <br/>
 
